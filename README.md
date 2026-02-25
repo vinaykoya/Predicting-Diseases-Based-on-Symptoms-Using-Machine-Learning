@@ -18,18 +18,15 @@ The application combines Machine Learning, Flask, and MySQL database integration
 -• Evaluate ML model performance
 -• Enable interactive healthcare assistance
 
-⭐ **Key Features**
----
+## ⭐ Key Features
 
-- ✅ Machine Learning Disease Prediction
-- ✅ AI Health Chatbot Support
-- ✅ Doctor Registration & Login System
-- ✅ Patient Registration & Records
-- ✅ MySQL Database Integration
-- ✅ Model Accuracy, Precision, Recall & F1 Evaluation
-- ✅ Interactive Web Dashboard
-
----
+- ✅ Machine Learning Disease Prediction  
+- ✅ AI Health Chatbot Support  
+- ✅ Doctor Registration & Login System  
+- ✅ Patient Registration & Records  
+- ✅ MySQL Database Integration  
+- ✅ Model Accuracy, Precision, Recall & F1 Evaluation  
+- ✅ Interactive Web Dashboard  
 
 # 2️⃣ Demos
 
