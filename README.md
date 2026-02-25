@@ -18,7 +18,7 @@ The application combines Machine Learning, Flask, and MySQL database integration
 -• Evaluate ML model performance
 -• Enable interactive healthcare assistance
 
-## ⭐ Key Features
+ ⭐ **Key Features**
 
 - ✅ Machine Learning Disease Prediction  
 - ✅ AI Health Chatbot Support  
