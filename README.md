@@ -85,7 +85,7 @@ Symptoms-Based-Disease-Prediction/
 
 ```bash
 git init
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/vinaykoya/Predicting-Diseases-Based-on-Symptoms-Using-Machine-Learning.git
 cd your-Predicting-Diseases-Based-on-Symptoms-Using-Machine-Learning
 pip install -r requirements.txt
 python index.py
