@@ -12,10 +12,10 @@ The application combines Machine Learning, Flask, and MySQL database integration
 
 ⭐ **Core Objectives**
 
-• Predict diseases based on symptoms/
-• Provide early health insights to users/
-• Store patient & doctor data securely/
-• Evaluate ML model performance/
+• Predict diseases based on symptoms
+• Provide early health insights to users
+• Store patient & doctor data securely
+• Evaluate ML model performance
 • Enable interactive healthcare assistance
 
 ⭐ **Key Features**
