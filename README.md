@@ -12,21 +12,21 @@ The application combines Machine Learning, Flask, and MySQL database integration
 
 ⭐ **Core Objectives**
 
--• Predict diseases based on symptoms
--• Provide early health insights to users
--• Store patient & doctor data securely
--• Evaluate ML model performance
--• Enable interactive healthcare assistance
+• Predict diseases based on symptoms  
+• Provide early health insights to users  
+• Store patient & doctor data securely  
+• Evaluate ML model performance  
+• Enable interactive healthcare assistance  
 
  ⭐ **Key Features**
 
-- ✅ Machine Learning Disease Prediction  
-- ✅ AI Health Chatbot Support  
-- ✅ Doctor Registration & Login System  
-- ✅ Patient Registration & Records  
-- ✅ MySQL Database Integration  
-- ✅ Model Accuracy, Precision, Recall & F1 Evaluation  
-- ✅ Interactive Web Dashboard  
+✅ Machine Learning Disease Prediction  
+✅ AI Health Chatbot Support  
+✅ Doctor Registration & Login System  
+✅ Patient Registration & Records  
+✅ MySQL Database Integration  
+✅ Model Accuracy, Precision, Recall & F1 Evaluation  
+✅ Interactive Web Dashboard  
 
 # 2️⃣ Demos
 
@@ -84,6 +84,7 @@ Symptoms-Based-Disease-Prediction/
 # 4️⃣ Run Locally
 
 ```bash
+git init
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
@@ -103,8 +104,8 @@ http://127.0.0.1:5000
 ### Create database
 
 ```sql
-CREATE DATABASE health_prediction;
-USE health_prediction;
+CREATE DATABASE Disease_prediction;
+USE Disease_prediction;
 ```
 
 ### Import tables
@@ -119,7 +120,7 @@ mysql -u root -p health_prediction < database.sql
 host="localhost"
 user="root"
 password="your_password"
-database="health_prediction"
+database="Disease_prediction"
 ```
 
 ---
@@ -128,27 +129,25 @@ database="health_prediction"
 
 You can deploy this project using:
 
-• Render (Flask deployment)
-• Railway
-• AWS EC2
-• PythonAnywhere
+• Render (Flask deployment)   
+• PythonAnywhere  
 
 For deployment, ensure:
 
-• MySQL database is hosted online
-• requirements.txt is included
-• Environment variables configured
+• MySQL database is hosted online  
+• requirements.txt is included  
+• Environment variables configured  
 
 ---
 
 # 7️⃣ Tech Stack
 
-• Python
-• Flask
-• Scikit-learn
-• Pandas / NumPy
-• MySQL
-• HTML / CSS / Bootstrap
+• Python  
+• Flask  
+• Scikit-learn  
+• Pandas / NumPy  
+• MySQL  
+• HTML / CSS / Bootstrap  
 
 ---
 
@@ -159,8 +158,3 @@ Symptoms Based Disease Prediction System demonstrates how Machine Learning can a
 The system combines prediction models, chatbot assistance, and database management to create a complete AI-driven healthcare web solution.
 
 ---
-
-# 👨‍💻 Author
-
-**Vinay**
-GitHub: https://github.com/your-username
