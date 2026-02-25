@@ -1,4 +1,4 @@
-# 🩺 Symptoms Based Disease Prediction System
+# 🩺 Predicting Diseases Based on Symptoms Using Machine Learning
 
 Symptoms Based Disease Prediction System is an intelligent healthcare web application designed to predict possible diseases from user symptoms using Machine Learning models and provide guidance through an AI health chatbot.
 
