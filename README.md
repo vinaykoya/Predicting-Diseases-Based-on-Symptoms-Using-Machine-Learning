@@ -51,24 +51,24 @@ Evaluation metrics available for analysis
 ```
 Symptoms-Based-Disease-Prediction/
 │
-├── dataset/                  # Training dataset
-├── env/                      # Virtual environment (ignored in GitHub)
-├── profilepic/               # User profile images
-├── static/                   # CSS, JS, images
-├── templates/                # HTML templates
+├── dataset/                  
+├── env/                      
+├── profilepic/               
+├── static/                   
+├── templates/                
 │
-├── ai_health_bot.py          # Chatbot logic
-├── disease_detection.py      # Disease prediction module
-├── Similarity.py             # Symptom similarity matching
-├── symptoms_list.py          # Symptoms database
+├── ai_health_bot.py          
+├── disease_detection.py      
+├── Similarity.py             
+├── symptoms_list.py          
 │
 ├── doctor_registration.py
 ├── patient_registration.py
-├── DBConnection.py           # MySQL database connection
-├── database.sql              # Database schema
+├── DBConnection.py           
+├── database.sql              
 │
-├── ML_Evaluations.py         # Model evaluation metrics
-├── index.py                  # Main Flask app
+├── ML_Evaluations.py         
+├── index.py                  
 │
 ├── accuracy.png
 ├── precision.png
@@ -87,7 +87,9 @@ Symptoms-Based-Disease-Prediction/
 git init
 git clone https://github.com/vinaykoya/Predicting-Diseases-Based-on-Symptoms-Using-Machine-Learning.git
 cd your-Predicting-Diseases-Based-on-Symptoms-Using-Machine-Learning
+
 pip install -r requirements.txt
+
 python index.py
 ```
 
